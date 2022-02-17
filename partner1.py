@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 print("Hello all college students, prepare to answer some short questions")
 name = input("Please enter your name ");
@@ -15,3 +16,4 @@ elif (age == 20):
 
 else:
     print("hi", name, "Congrats!! Finish this year up at", school, "and you will be a college grad!");
+
