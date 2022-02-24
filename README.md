@@ -7,3 +7,6 @@ After determining what year the student is most likely in, the program prints a 
 
 
 Our second program partner p2 finds out the name of a user, if they like jazz or not, and then prints the result to the console.
+
+## Reasons For Code of Conduct and License
+We chose our code of conduct because we think it accurately reflects the values that one should take into account when contributing to open source software. 
