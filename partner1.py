@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 print("Hello all college students, prepare to answer some short questions")
 name = input("Please enter your name ");
