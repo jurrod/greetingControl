@@ -10,3 +10,4 @@ Our second program partner p2 finds out the name of a user, if they like jazz or
 
 ## Reasons For Code of Conduct and License
 We chose our code of conduct because we think it accurately reflects the values that one should take into account when contributing to open source software. 
+We also chose our Apache License for our repository because Jarrod has worked with apache before and likes it.
